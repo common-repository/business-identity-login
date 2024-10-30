@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Identity Login 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/business-identity-login\n"
+"Last-Translator: Whitespace AB <dev@whitespace.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-10T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: business-identity-login\n"
+
+msgid "Business Identity Login"
+msgstr ""
+
+msgid "https://whitespace.se/business-identity-login"
+msgstr ""
+
+msgid "Customizes the WordPress login page with your business identity, including a custom logo and color scheme."
+msgstr ""
+
+msgid "Whitespace AB"
+msgstr ""
+
+msgid "https://whitespace.se"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Customize your WordPress login page with your business identity. Choose a logo and set colors to match your brand."
+msgstr ""
+
+msgid "Logo Type"
+msgstr ""
+
+msgid "Use Site Icon"
+msgstr ""
+
+msgid "Use Custom Logo"
+msgstr ""
+
+#. translators: %s: URL to the General Settings page
+msgid "No Site Icon is currently set. You can set one in the %s."
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Custom Logo"
+msgstr ""
+
+msgid "Select Logo"
+msgstr ""
+
+msgid "Remove Logo"
+msgstr ""
+
+msgid "Upload or select your company logo. This will replace the WordPress logo on the login page."
+msgstr ""
+
+msgid "Supported formats: JPG, PNG, GIF, SVG"
+msgstr ""
+
+msgid "Logo Aspect Ratio"
+msgstr ""
+
+msgid "Original (1:1)"
+msgstr ""
+
+msgid "Half Size (1:2)"
+msgstr ""
+
+msgid "Quarter Size (1:4)"
+msgstr ""
+
+msgid "Adjust the display size of your logo on the login page."
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Choose a background color for the login page. This color will fill the entire background."
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Set the color for the login button. Choose a color that contrasts well with your background color."
+msgstr ""
+
+msgid "To see your changes, save the settings and visit your login page:"
+msgstr ""
+
+msgid "View Login Page"
+msgstr ""

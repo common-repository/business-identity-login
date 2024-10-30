@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Identity Login 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/business-identity-login\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-10T12:00:00+00:00\n"
+"PO-Revision-Date: 2023-05-10 14:00:00+0000\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: business-identity-login\n"
+"Language: sv_SE\n"
+
+msgid "Business Identity Login"
+msgstr "Företagsidentitet Inloggning"
+
+msgid "https://whitespace.se/business-identity-login"
+msgstr "https://whitespace.se/business-identity-login"
+
+msgid "Customizes the WordPress login page with your business identity, including a custom logo and color scheme."
+msgstr "Anpassar WordPress inloggningssida med din företagsidentitet, inklusive en anpassad logotyp och färgschema."
+
+msgid "Whitespace AB"
+msgstr "Whitespace AB"
+
+msgid "https://whitespace.se"
+msgstr "https://whitespace.se"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Customize your WordPress login page with your business identity. Choose a logo and set colors to match your brand."
+msgstr "Anpassa din WordPress inloggningssida med din företagsidentitet. Välj en logotyp och ställ in färger som matchar ditt varumärke."
+
+msgid "Logo Type"
+msgstr "Logotyptyp"
+
+msgid "Use Site Icon"
+msgstr "Använd webbplatsikon"
+
+msgid "Use Custom Logo"
+msgstr "Använd anpassad logotyp"
+
+#. translators: %s: URL to the General Settings page
+msgid "No Site Icon is currently set. You can set one in the %s."
+msgstr "Ingen webbplatsikon är inställd. Du kan ställa in en i %s."
+
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+msgid "Custom Logo"
+msgstr "Anpassad logotyp"
+
+msgid "Select Logo"
+msgstr "Välj logotyp"
+
+msgid "Remove Logo"
+msgstr "Ta bort logotyp"
+
+msgid "Upload or select your company logo. This will replace the WordPress logo on the login page."
+msgstr "Ladda upp eller välj din företagslogotyp. Detta kommer att ersätta WordPress-logotypen på inloggningssidan."
+
+msgid "Supported formats: JPG, PNG, GIF, SVG"
+msgstr "Stödda format: JPG, PNG, GIF, SVG"
+
+msgid "Logo Aspect Ratio"
+msgstr "Logotypens bildförhållande"
+
+msgid "Original (1:1)"
+msgstr "Original (1:1)"
+
+msgid "Half Size (1:2)"
+msgstr "Halv storlek (1:2)"
+
+msgid "Quarter Size (1:4)"
+msgstr "Kvarts storlek (1:4)"
+
+msgid "Adjust the display size of your logo on the login page."
+msgstr "Justera visningsstorleken på din logotyp på inloggningssidan."
+
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+msgid "Choose a background color for the login page. This color will fill the entire background."
+msgstr "Välj en bakgrundsfärg för inloggningssidan. Denna färg kommer att fylla hela bakgrunden."
+
+msgid "Button Color"
+msgstr "Knappfärg"
+
+msgid "Set the color for the login button. Choose a color that contrasts well with your background color."
+msgstr "Ställ in färgen för inloggningsknappen. Välj en färg som kontrasterar väl mot din bakgrundsfärg."
+
+msgid "To see your changes, save the settings and visit your login page:"
+msgstr "För att se dina ändringar, spara inställningarna och besök din inloggningssida:"
+
+msgid "View Login Page"
+msgstr "Visa inloggningssida"
